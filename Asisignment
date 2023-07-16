@@ -1,0 +1,5 @@
+#Minni challenge 6
+firstname=input ("What is your first name?")
+lastname=input ("What is your last name?")
+email=firstname + lastname +"@gmail.com"
+print(email)
